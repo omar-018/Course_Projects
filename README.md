@@ -1,6 +1,6 @@
 # Course_Projects
 
-This repository, named "course_projects," showcases some of the many projects completed during my university coursework. Below are brief descriptions of some of the featured projects:
+This repository, showcases some of the many projects completed during my university coursework. Below are brief descriptions of some of the featured projects:
 
 ## Kepler Exoplanet Search Results
 
